@@ -41,5 +41,5 @@
 - Introduction to NumPy
 
 ## Certificate
-![](certificate.png)
+(certificate.png)
 
